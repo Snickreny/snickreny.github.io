@@ -2515,27 +2515,27 @@ input, select, textarea {
 			}
 
 				.wrapper.style1 .icon.major:before {
-					color: #5e42a6;
+					color: #B8B8B8;
 				}
 
 				.wrapper.style1-alt .icon.major:before {
-					color: #493382;
+					color: #5E5E5E;
 				}
 
 				.wrapper.style2 .icon.major:before {
-					color: #5052b5;
+					color: #191919;
 				}
 
 				.wrapper.style2-alt .icon.major:before {
-					color: #3e4094;
+					color: #191919;
 				}
 
 				.wrapper.style3 .icon.major:before {
-					color: #b74e91;
+					color: #F0DFEA;
 				}
 
 				.wrapper.style3-alt .icon.major:before {
-					color: #953d75;
+					color: #424242;
 				}
 
 /* Image */
